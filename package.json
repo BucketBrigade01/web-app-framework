@@ -1,0 +1,27 @@
+{
+  "name": "web-app-framework",
+  "version": "1.0.0",
+  "description": "Jovian career cite powered by js express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BucketBrigade01/web-app-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BucketBrigade01/web-app-framework/issues"
+  },
+  "homepage": "https://github.com/BucketBrigade01/web-app-framework#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
